@@ -1,0 +1,6 @@
+[submodule "Minerva"]
+	path = Minerva
+	url = https://github.com/discovery-unicamp/Minerva.git
+[submodule "minerva-seismic"]
+	path = minerva-seismic
+	url = https://github.com/discovery-unicamp/minerva-seismic.git
